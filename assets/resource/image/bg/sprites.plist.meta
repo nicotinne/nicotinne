@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "b60c311b-42f0-4946-8a6d-5ed73c90f9ff",
+  "rawTextureUuid": "d4cf92d3-5f2a-4b3c-8e0c-f672eacd733f",
+  "size": {
+    "width": 1024,
+    "height": 1024
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "bg_game.jpg": {
+      "ver": "1.0.4",
+      "uuid": "5109daec-973c-4249-8f3e-f44802b456d1",
+      "rawTextureUuid": "d4cf92d3-5f2a-4b3c-8e0c-f672eacd733f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 658,
+      "height": 1000,
+      "rawWidth": 658,
+      "rawHeight": 1000,
+      "borderTop": 175,
+      "borderBottom": 182,
+      "borderLeft": 201,
+      "borderRight": 318,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

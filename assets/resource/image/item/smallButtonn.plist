@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>btn11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,187},{59,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,62}}</string>
+				<key>sourceSize</key>
+				<string>{59,62}</string>
+			</dict>
+
+			<key>btn12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,124},{59,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,62}}</string>
+				<key>sourceSize</key>
+				<string>{59,62}</string>
+			</dict>
+
+			<key>btn13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{60,0},{59,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,62}}</string>
+				<key>sourceSize</key>
+				<string>{59,62}</string>
+			</dict>
+
+			<key>btn14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{60,126},{58,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{58,62}}</string>
+				<key>sourceSize</key>
+				<string>{58,62}</string>
+			</dict>
+
+			<key>btn15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{60,63},{59,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,62}}</string>
+				<key>sourceSize</key>
+				<string>{59,62}</string>
+			</dict>
+
+			<key>btn16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,62},{59,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,61}}</string>
+				<key>sourceSize</key>
+				<string>{59,61}</string>
+			</dict>
+
+			<key>btn17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{59,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{59,61}}</string>
+				<key>sourceSize</key>
+				<string>{59,61}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{128,256}</string>
+			<key>textureFileName</key>
+			<string>smallButtonn.png</string>
+			</dict>
+		</dict>
+</plist>
